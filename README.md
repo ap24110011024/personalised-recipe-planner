@@ -9,7 +9,7 @@ It provides personalized suggestions based on user preferences.
 - Ingredient management
 
 ## Tech Stack
-- HTML, CSS, JavaScript (or whatever you used)
+- HTML, CSS, JavaScript.
 
 ## Report
 [COOKBOOK FINAL.pdf](https://github.com/user-attachments/files/27257013/COOKBOOK.FINAL.pdf)
